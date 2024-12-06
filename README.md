@@ -16,11 +16,7 @@ This project implements **Facial Emotion Recognition** using a Convolutional Neu
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Testing Residual Units](#testing-residual-units)
-  - [Emotion Recognition with Webcam](#emotion-recognition-with-webcam)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
