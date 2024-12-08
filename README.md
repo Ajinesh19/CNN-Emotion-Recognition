@@ -16,11 +16,7 @@ This project implements **Facial Emotion Recognition** using a Convolutional Neu
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Testing Residual Units](#testing-residual-units)
-  - [Emotion Recognition with Webcam](#emotion-recognition-with-webcam)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
@@ -57,8 +53,11 @@ This project implements **Facial Emotion Recognition** using a Convolutional Neu
    cd CNN-Emotion-Recognition
 
 2. Install Dependencies
-pip install tensorflow opencv-python facial-emotion-recognition
 
+```
+pip install -r requirements.txt
+
+```
 ## Future Enhancements
 - Integrate Residual Units directly into the emotion recognition pipeline.
 - Extend emotion categories and improve model accuracy.
