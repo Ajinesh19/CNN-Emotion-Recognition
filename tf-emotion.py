@@ -55,5 +55,3 @@ while True:
 # Release the capture and close windows
 cap.release()
 cv2.destroyAllWindows()
-
-itha athula podu
